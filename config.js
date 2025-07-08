@@ -16,31 +16,31 @@ global.owner = [
 ["258892692984006"],
 
 // @s.whatsapp.net
-["5218711426787", "Propietario 👑", true],
-["523142183828", "OptiShield", true],
-["5492916450307"],
-["5218712620915"]
+["249126083647", "Propietario 👑", true],
+["249126083647", "OptiShield", true],
+["249126083647"],
+["249126083647"]
 ];
 
 //• ↳𝑺𝑶𝑳𝑶 𝑴𝑶𝑫𝑬𝑹𝑨𝑫𝑶𝑹𝑬𝑺!
 global.mods = []
 
-global.suittag = ['5218711426787']
+global.suittag = ['249126083647']
 global.prems = []
 
 //• ↳ ◜𝑴𝑨𝑹𝑪𝑨𝑺 𝑫𝑬 𝑨𝑮𝑼𝑨◞ • 💌
-global.packsticker = '★彡( Ӿł_₥ł₲ɄɆⱠØ₦77ӾӾ )彡★'
+global.packsticker = '★彡(𝑶𝑻𝑻𝑶-𝑩𝑶𝑻-𝑴𝑫 )彡★'
 global.packname = '󠁖󠁖󠁖󠁖󠁖󠁖󠁻󠁻𝐇𝐮ⷡ𝐓ⷪ𝐚ⷮ𝐨-𝐌𝐃󠁂󠀧󠁂🈀'
 global.author = 'ɦʊȶǟօ-քʀօʏɛƈȶ'
 global.wm = 'ɦʊȶǟօ-քʀօʏɛƈȶ';
-global.titulowm = '★彡( Ӿł_₥ł₲ɄɆⱠØ₦77ӾӾ )彡★';
-global.titulowm2 = 'ɦʊȶǟօ-քʀօʏɛƈȶ'
-global.igfg = 'ɦʊȶǟօ-քʀօʏɛƈȶ'
-global.botname = 'ɦʊȶǟօ-քʀօʏɛƈȶ'
+global.titulowm = '★彡( 𝑶𝑻𝑻𝑶-𝑩𝑶𝑻-𝑴𝑫 )彡★';
+global.titulowm2 = '𝑶𝑻𝑻𝑶-𝑩𝑶𝑻-𝑴𝑫'
+global.igfg = '𝑶𝑻𝑻𝑶-𝑩𝑶𝑻-𝑴𝑫'
+global.botname = '𝑶𝑻𝑻𝑶-𝑩𝑶𝑻'
 global.dev = '★彡( Ӿł_₥ł₲ɄɆⱠØ₦77ӾӾ )彡★'
-global.textbot = 'ɦʊȶǟօ-քʀօʏɛƈȶ'
+global.textbot = '𝑶𝑻𝑻𝑶-𝑩𝑶𝑻'
 global.gt = '𝐇𝐮ⷡ𝐓ⷪ𝐚ⷮ𝐨-𝐌𝐃󠁂󠀧󠁂🈀';
-global.namechannel = 'ɦʊȶǟօ-քʀօʏɛƈȶ'
+global.namechannel = '𝑶𝑻𝑻𝑶-𝑩𝑶𝑻'
 global.vs = 'V2'
 global.vsJB = '5.0'
 
@@ -99,15 +99,15 @@ ch4: '120363343811229130@newsletter',
 }
 
 //• ↳ ◜𝑳𝑰𝑵𝑲𝑺◞ • 🌿
-global.gp4 = 'https://chat.whatsapp.com/LcifaLUrmww6CPT27IuSAa' //Grupo Oficial De Hutao
-global.gp1 = 'https://chat.whatsapp.com/GFyLX1dDDxI0utho5GBmJI' //Grupo 
+global.gp4 = '' //Grupo Oficial De Hutao
+global.gp1 = '' //Grupo 
 global.gp2 = 'GE1wUxAsLleAxfCVvtsp1x' //Grupo
-global.comunidad1 = 'https://chat.whatsapp.com/GPEtINYPyIB6a6S55ZJcAO' //Comunidad Megumin
-global.channel = 'https://whatsapp.com/channel/0029Vb7Ji66KbYMTYLU9km3p' //Canal Oficial
-global.yt = 'https://youtube.com/@davidchian4957' //Canal De Youtube
+global.comunidad1 = '' //Comunidad Megumin
+global.channel = 'https://whatsapp.com/channel/0029VbAigic5fM5hwt07uw3X' //Canal Oficial
+global.yt = 'https://youtube.com/@AmrowKhalid' //Canal De Youtube
 global.md = 'https://github.com/CheirZ' //Github Oficial
 global.correo = 'miguel.doce12000@outlook.com'
-global.cn ='https://whatsapp.com/channel/0029VacDy0R6hENqnTKnG820';
+global.cn ='https://whatsapp.com/channel/0029VbAigic5fM5hwt07uw3X';
 
 var ase = new Date(); var hour = ase.getHours(); switch(hour){ case 0: hour = 'Linda Mañana'; break; case 1: hour = 'Linda Mañana'; break; case 2: hour = 'Linda Mañana'; break; case 3: hour = 'Linda Mañana'; break; case 4: hour = 'linda mañana'; break; case 5: hour = 'Linda Mañana'; break; case 6: hour = 'Linda Mañana'; break; case 7: hour = 'Linda Mañana'; break; case 8: hour = 'Linda Mañana'; break; case 9: hour = 'Linda Mañana'; break; case 10: hour = 'Lindo Dia'; break; case 11: hour = 'Lindo Dia'; break; case 12: hour = 'Lindo Dia'; break; case 13: hour = 'Lindo Dia'; break; case 14: hour = 'Linda Tarde'; break; case 15: hour = 'Linda Tarde'; break; case 16: hour = 'Linda Tarde'; break; case 17: hour = 'Linda Tarde'; break; case 18: hour = 'Linda Noche'; break; case 19: hour = 'Linda Noche'; break; case 20: hour = 'Linda Noche'; break; case 21: hour = 'Linda Noche'; break; case 22: hour = 'Linda Noche'; break; case 23: hour = 'Linda Noche'; break;}
 global.saludo = '🍭' + hour;
