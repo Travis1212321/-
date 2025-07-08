@@ -1,5 +1,5 @@
 {
-"name":"HuTao-Proyect",
+"name":"OTTO-Proyect",
 "version":"V2",
 "description": "la directora de la funeraria el caminó",
 "main": "index.js",
@@ -19,12 +19,12 @@
 "eslint": "eslint .",
 "eslintfix": "eslint --fix ."
 },
-"homepage": "https://github.com/CheirZ/HuTao-Proyect",
+"homepage": "https://github.com/Travis1212321/-",
 "author": {
 "name": "Ximiguelon" },
 "repository": {
 "type": "git",
-"url": "git+https://github.com/CheirZ/HuTao-Proyect.git" },
+"url": "git+https://github.com/Travis1212321/-.git" },
 "bugs": { "url": "https://github.com/CheirZ/HuTao-Proyect/issues" },
 "license": "MIT-License",
 "dependencies": {
